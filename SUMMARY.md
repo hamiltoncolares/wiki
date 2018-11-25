@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [O que tem aqui](README.md)
 * [Hardware](hardware.md)
 * [iOS](ios/README.md)
   * [Pocket Casts](ios/pocket-casts.md)
