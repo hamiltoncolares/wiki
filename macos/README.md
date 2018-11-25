@@ -2,7 +2,7 @@
 description: Tudo sobre MacOS.
 ---
 
-# MacOS
+# macOS
 
 Aqui tenho o que sei sobre MacOS e os aplicativos que utilizo.
 
