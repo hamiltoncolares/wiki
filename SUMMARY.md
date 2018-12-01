@@ -49,6 +49,7 @@
       * [Ambiente JavaScript](dev/linguagens/javascript/ambiente-javascript.md)
     * [Python](dev/linguagens/python/README.md)
       * [Ambiente Python](dev/linguagens/python/ambiente-python.md)
+      * [Machine Learn](dev/linguagens/python/machine-learn.md)
   * [Dev Tools](dev/dev-tools/README.md)
     * [GitKraken](dev/dev-tools/gitkraken.md)
     * [Postman](dev/dev-tools/postman.md)
