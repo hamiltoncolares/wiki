@@ -54,6 +54,7 @@
     * [GitKraken](dev/dev-tools/gitkraken.md)
     * [Postman](dev/dev-tools/postman.md)
     * [VSCode](dev/dev-tools/vscode.md)
+  * [DevOps](dev/devops.md)
 * [Design](design/README.md)
   * [Adobe XD](design/adobe-xd.md)
   * [Affinity Designer](design/affinity-designer.md)
