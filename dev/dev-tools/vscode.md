@@ -37,3 +37,36 @@ code --install-extension wesbos.theme-cobalt2
 code --install-extension xabikos.ReactSnippets
 ```
 
+## User settings
+
+```text
+{
+    "materialTheme.autoApplyIcons": true,
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "workbench.iconTheme": "eq-material-theme-icons-darker",
+    "editor.fontSize": 13,
+    "sync.gist": "73b2891b826fbadd193dc8416f6b885f",
+    "sync.quietSync": false,
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true,
+    "sync.autoDownload": false,
+    "sync.autoUpload": true,
+    "sync.forceDownload": false,
+    "files.exclude": {
+        "*.icloud": true,
+        "*.sqlite3": true,
+        "**/__pycache__": true,
+        "**/.vscode": true
+    },
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 100,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorCustomizations": {},
+    "terminal.integrated.fontFamily": "\"Meslo LG M for Powerline\"",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "vscode-json-editor.theme": "dark",
+    "window.zoomLevel": 0,
+    "extensions.autoUpdate": false
+}
+```
+
