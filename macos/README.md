@@ -14,4 +14,17 @@ Alguns processos ou comandos facilitam os trabalhos no dia-a-dia. Nessa seção,
 ### Habilitar instalação de Apps
 Para habilitar a instalção de Apps que não são baixados pela App Store ou não são de desenvolvedores conhecidos.
 
-``` sudo spctl --master-disable```
+```sudo spctl --master-disable```
+
+### Plugins e apps do Homebrew
+qlcolorcode
+qlstephen
+qlmarkdown
+betterzip
+qlimagesize
+suspicious-package
+qlvideo
+quicklook-csv
+quicklook-json
+devdocs
+mark-text
