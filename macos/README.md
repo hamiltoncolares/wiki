@@ -28,3 +28,17 @@ quicklook-csv
 quicklook-json
 devdocs
 mark-text
+
+### Plugins e apps do Cask (brew cask)
+betterzip
+firefox
+qlcolorcode
+qlmarkdown
+qlvideo
+quicklook-json
+devdocs
+mark-text
+qlimagesize
+qlstephen
+quicklook-csv
+suspicious-package
