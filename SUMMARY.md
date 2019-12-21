@@ -11,6 +11,7 @@
   * [Amphetamine](macos/amphetamine.md)
   * [Bear](macos/bear.md)
   * [BetterTouchTools](macos/bettertouchtools.md)
+  * [BitBar](macos/bitbar.md)
   * [Caption](macos/caption.md)
   * [CheatSheet](macos/cheatsheet.md)
   * [DaisyDisk](macos/daisydisk.md)
